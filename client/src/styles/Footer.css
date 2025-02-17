@@ -1,0 +1,50 @@
+.Footer{
+
+    background-color: #202226;
+    color: rgb(227, 230, 232);
+    padding: 3vh 3vw;
+    margin-top: 3vh;
+
+}
+.Footer h4{
+
+    margin-left: 2vw;
+    font-family: cursive;
+    font-size: 40px;
+    color: rgb(251, 169, 69);
+}
+.Footer h5{
+
+    margin-left: 2vw;
+    font-family: cursive;
+    font-size: 20px;
+    color: rgb(251, 169, 69);
+}
+
+.footer-body{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10vw;
+    margin-bottom: 3vh;
+    margin-top: 3vh;
+}
+
+
+
+.footer-body ul li{
+    list-style: none;
+    color: rgb(251, 169, 69);
+    cursor: pointer;
+}
+
+.footer-body ul li:hover{
+    list-style: none;
+    color: aliceblue; 
+}
+
+
+.footer-bottom p{
+    text-align: center;
+    color: rgb(193, 196, 198);
+    margin: 0;
+}
